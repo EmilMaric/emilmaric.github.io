@@ -2,6 +2,7 @@
  * Custom stylesheet
  */
 
+
  #profile-pic {
  	width: 150px;
   	height: 150px;
@@ -10,9 +11,17 @@
   	background-size: cover;
  }
 
+
 header {
  	background-image: url("../img/stari-most.jpg");
  	background-repeat: no-repeat;
  	background-size: 100% 100%;
 	background-position: center;
  }
+
+
+@media(min-width:768px) {
+	.navbar-fixed-top {
+       	padding: 5px 0;
+    }
+}
