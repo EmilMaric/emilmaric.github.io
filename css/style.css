@@ -49,3 +49,7 @@ ul.list-inline li {
 ul.list-inline li:first-child {
 	margin-left: 0;
 }
+
+ul.list-inline.skills li {
+	margin: 0 0 0 0;
+}
