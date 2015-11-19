@@ -35,3 +35,8 @@ header {
     color: #18bc9c;
     background: transparent;
 }
+
+
+.btn-outline {
+	border: solid 0px #fff;
+}
