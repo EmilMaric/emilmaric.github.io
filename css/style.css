@@ -13,6 +13,6 @@
  #header-bg {
  	background-image: url("../img/stari-most.jpg");
  	background-repeat: no-repeat;
-	background-size: contain;
+ 	background-size: 100%;
 	background-position: center;
  }
