@@ -40,3 +40,12 @@ header {
 .btn-outline {
 	border: solid 0px #fff;
 }
+
+			
+ul.list-inline li {
+	margin: 0 0 0 0.5em;
+}
+				
+ul.list-inline li:first-child {
+	margin-left: 0;
+}
